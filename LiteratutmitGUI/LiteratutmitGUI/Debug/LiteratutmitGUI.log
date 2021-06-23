@@ -1,0 +1,8 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\users\wahlers\source\repos\literatutmitgui\literatutmitgui\datentypen.h(42): warning C4091: "typedef ": Ignoriert auf der linken Seite von "Daten", wenn keine Variable deklariert wurde
+c:\users\wahlers\source\repos\literatutmitgui\literatutmitgui\cppclr_winformsprojekt.cpp(46): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(2240): note: Siehe Deklaration von "sscanf"
+c:\users\wahlers\source\repos\literatutmitgui\literatutmitgui\cppclr_winformsprojekt.cpp(98): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(2240): note: Siehe Deklaration von "sscanf"
+  AssemblyInfo.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  LiteratutmitGUI.vcxproj -> C:\Users\wahlers\source\repos\LiteratutmitGUI\Debug\LiteratutmitGUI.exe
